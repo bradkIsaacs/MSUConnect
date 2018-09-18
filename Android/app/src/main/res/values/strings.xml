@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">MSUConnectAndroid</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="ProfileView_App_Name">MSUConnect Profile Page</string>
+    <string name="ProfileView_Switch_Broadcast">Broadcast Location</string>
+    <string name="ProfileView_FormTitle_Name">Name: </string>
+    <string name="ProfileView_Form_Name">Michael Boykin</string>
+    <string name="ProfileView_FormTitle_Interests">School Interests:</string>
+    <string name="ProfileView_Form_Interests">Interests List Lookup</string>
+    <string name="ProfileView_FormTitle_StudyGroups">Study Groups:</string>
+    <string name="ProfileView_Form_StudyGroups">Study Groups List Lookup</string>
+    <string name="ProfileView_Image_Content">Image of User</string>
 </resources>
