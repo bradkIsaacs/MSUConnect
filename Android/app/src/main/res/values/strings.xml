@@ -10,7 +10,7 @@
         <item>Greendale Community College</item>
     </string-array>
 
-<<<<<<< HEAD
+
     <string name="ProfileView_App_Name">MSUConnect Profile Page</string>
     <string name="ProfileView_Switch_Broadcast">Broadcast Location</string>
     <string name="ProfileView_FormTitle_Name">Name: </string>
@@ -20,8 +20,6 @@
     <string name="ProfileView_FormTitle_StudyGroups">Study Groups:</string>
     <string name="ProfileView_Form_StudyGroups">Study Groups List Lookup</string>
     <string name="ProfileView_Image_Content">Image of User</string>
-
-=======
 
     <string name="label_google_sign_in">Firebase + Google Sign In</string>
     <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
@@ -106,5 +104,5 @@
 
     <string name="id_fmt">User ID: %s</string>
     <string name="email_fmt">Email: %s</string>
->>>>>>> firebase-auth-login
+
 </resources>
